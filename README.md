@@ -72,6 +72,23 @@ Yomitasu (https://www.yomitasu.jp/) offers a free service that transforms an ent
 
 Everything profiled for yomitasu-jp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/yomitasu-jp/](https://apis.io/providers/yomitasu-jp/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Yomitasu Jp Authentication](https://apis.io/security/yomitasu-jp/yomitasu-jp-authentication/)
+- [Yomitasu Jp Domain Security](https://apis.io/security/yomitasu-jp/yomitasu-jp-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Yomitasu Jp Scopes](https://apis.io/scopes/yomitasu-jp/yomitasu-jp-scopes/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -83,7 +100,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/yomitasu-jp/](https://apis.io/providers/yomitasu-jp/).
+**Kin Score 14.9** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/yomitasu-jp/](https://apis.io/providers/yomitasu-jp/).
 
 ## How this profile is made
 
